@@ -1,0 +1,6 @@
+print("===================================")
+print("Nama\t: Muhamad Fadhlu Rohman")
+print("Nim\t: 0110223088")
+print("Kelas\t: TI03")
+print("Alamat\t:Bogor")
+print("===================================")
